@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>
+</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/SaugatKing/mchh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body background="http://christmasgifs.org/wp-content/uploads/2013/12/animade_full1.gif">
+<center><img src="hello.png" style="width:400px;height:300px;">>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center><I><font size="3" color=#00000 >⇩SCROLL DOWN⇩</font></I>
 
-### Markdown
+<center><img src="mchh.png" style="width:400px;height:300px;"></center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<center><img src="sau.png" style="width:400px;height:300px;"></center>
 
-```markdown
-Syntax highlighted code block
+<center><I><font size="3" color=#FFFFFF >MADE  BY  SAUGAT</font></I>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaugatKing/mchh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
